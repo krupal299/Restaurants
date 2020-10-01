@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Demo.iml" filepath="$PROJECT_DIR$/.idea/modules/Demo.iml" group="Demo" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/app.iml" group="Demo/app" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1906595536/react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/1906595536/react-native-community_masked-view.iml" group="Demo/react-native-community_masked-view" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1308920439/react-native-fast-image.iml" filepath="$PROJECT_DIR$/.idea/modules/-1308920439/react-native-fast-image.iml" group="Demo/react-native-fast-image" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/465128111/react-native-geolocation-service.iml" filepath="$PROJECT_DIR$/.idea/modules/465128111/react-native-geolocation-service.iml" group="Demo/react-native-geolocation-service" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1886095353/react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-1886095353/react-native-gesture-handler.iml" group="Demo/react-native-gesture-handler" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/467286188/react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/467286188/react-native-maps.iml" group="Demo/react-native-maps" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/300481973/react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/300481973/react-native-reanimated.iml" group="Demo/react-native-reanimated" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/589933232/react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/589933232/react-native-safe-area-context.iml" group="Demo/react-native-safe-area-context" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-204888376/react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/-204888376/react-native-screens.iml" group="Demo/react-native-screens" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-602344145/react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/-602344145/react-native-vector-icons.iml" group="Demo/react-native-vector-icons" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1972212858/realm.iml" filepath="$PROJECT_DIR$/.idea/modules/-1972212858/realm.iml" group="Demo/realm" />
+    </modules>
+  </component>
+</project>
